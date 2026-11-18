@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  color-scheme: dark;
+}
+
+body {
+  background: #0d0d0f;
+  color: #f4f4f5;
+  font-family: system-ui, sans-serif;
+  line-height: 1.5;
+}
